@@ -3,3 +3,10 @@
     height: 100px;
     width: 100px;
 }
+#main{
+  background: black;
+  text-decoration-color: darkgoldenrod;
+}
+a{
+  text-decoration : none;
+}
